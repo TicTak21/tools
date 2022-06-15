@@ -62,3 +62,7 @@
 
 - Editor: [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) or smth similar
 - Terminal: [Bluloco Dark](https://github.com/mbadolato/iTerm2-Color-Schemes#bluloco-dark) or One-Dark-like
+
+## Trackers
+
+- Calorie tracker: [Lifesum](https://lifesum.com/)
